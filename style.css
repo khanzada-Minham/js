@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    top: 243px;
+}
+button{
+    padding: 10px 20px;
+    font-size: 30px;
+    cursor: pointer;
+    border: 1px solid rgb(202, 202, 202);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#Start{
+    background-color: #4CAF50;
+}
+#Storp{
+    background-color: red;
+}

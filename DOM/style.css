@@ -1,0 +1,14 @@
+#box{
+    width: 10%;
+    height: 100px;
+    background-color: #f1c40f;
+    color: #ffffff;
+    text-align: center;
+    border: 1px solid black;
+}
+.para{
+    color: red;
+}
+.newClass{
+    background-color: green;
+}
